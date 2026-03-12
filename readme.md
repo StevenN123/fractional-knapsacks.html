@@ -17,7 +17,7 @@ Given `n` items, each with a weight `wᵢ` and value `vᵢ`, and a knapsack with
 - Maximum value: 240
 - Solution: Take item 1 (10,60), item 2 (20,100), and 2/3 of item 3 (20,80)
 
-## ⚙️ Algorithm Analysis
+## Algorithm Analysis
 
 ### Time Complexity
 - **Sorting:** O(n log n)
@@ -27,7 +27,7 @@ Given `n` items, each with a weight `wᵢ` and value `vᵢ`, and a knapsack with
 ### Space Complexity
 - **Auxiliary Space:** O(1)
 
-## 💻 Complete Python Implementation
+## Complete Python Implementation
 
 ### Basic Implementation
 ```python
